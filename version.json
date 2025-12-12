@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
-  "url": "https://github.com/josepsanchocatalan/actualizadorMindCare/raw/main/app-release.apk",
-  "force": false
+  "latestVersionName": "1.0",
+  "downloadUrl": "https://github.com/josepsanchocatalan/actualizadorMindCare/raw/main/app-release.apk",
+  "releaseNotes": "Primera versión\nMejoras y correcciones"
 }
